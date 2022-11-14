@@ -1,0 +1,23 @@
+09:36:39 AM: DEBUG [logger_db.py]: 8 Hola!
+09:40:24 AM: DEBUG [commits.py]: 18 Sentencia insert
+009:40:24 AM: DEBUG [commits.py]: 22 Sentencia update
+09:40:24 AM: DEBUG [commits.py]: 27 Cambios guardados
+09:40:24 AM: DEBUG [commits.py]: 33 Se cierra la conexion
+09:46:59 AM: DEBUG [commits.py]: 18 Sentencia insert
+09:46:59 AM: DEBUG [commits.py]: 22 Sentencia update
+09:46:59 AM: INFO [commits.py]: 28 Cambios guardados con 1 rows afectados
+09:46:59 AM: DEBUG [commits.py]: 34 Se cierra la conexion
+09:20:35 AM: DEBUG [with.py]: 15 Registros insertados: 1
+09:20:35 AM: ERROR [with.py]: 20 no results to fetch
+09:20:59 AM: DEBUG [with.py]: 15 Registros insertados: 1
+09:24:35 AM: ERROR [with.py]: 23 tuple index out of range
+09:25:30 AM: DEBUG [with.py]: 16 Registros insertados: 2
+09:29:26 AM: DEBUG [with.py]: 16 Registros insertados: 2
+09:29:34 AM: DEBUG [delete.py]: 15 Registros afectados: 1
+09:33:50 AM: DEBUG [delete.py]: 16 Registros afectados: 1
+09:33:57 AM: DEBUG [with.py]: 16 Registros insertados: 2
+09:33:59 AM: DEBUG [with.py]: 16 Registros insertados: 2
+09:34:01 AM: DEBUG [with.py]: 16 Registros insertados: 2
+09:34:09 AM: DEBUG [delete.py]: 16 Registros afectados: 3
+09:38:18 AM: DEBUG [update.py]: 18 Registros insertados: 0
+09:38:34 AM: DEBUG [update.py]: 18 Registros insertados: 1

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregar a una persona</title>
+</head>
+<body>
+    <form method="POST">
+        <table>
+            {{formaPersona}}
+        </table>
+        <button type="submit">Agregar</button>
+        <a href="{% url 'index' %}">Regresar al inicio</a>
+        {% if messages %}
+            <ul class="messages">
+                {% for message in messages %}
+                    <li {% if message.tags %} class="{{message.tags}}" {% endif %}>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        {% csrf_token %}
+    </form>
+</body>
+</html>

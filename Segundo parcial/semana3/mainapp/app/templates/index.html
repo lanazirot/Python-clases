@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bienvenido al sistema gestor de persons LZ</title>
+  </head>
+  <body>
+    <a href="agregar_persona">Agregar persona</a>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nombre</th>
+          <th>Email</th>
+          <th>Detalles</th>
+          <th>Editar</th>
+          <th>Eliminar</th>
+        </tr>
+      </thead>
+      <tr>
+        {% for persona in personas %}
+            <tr>
+                <td>{{persona.id}}</td>
+                <td>{{persona.nombre}} {{persona.apellido}}</td>
+                <td>{{persona.email}}</td>
+                <td><a href="detalle_persona/{{persona.id}}">Ver detalles</a></td>
+                <td><a href="editar_persona/{{persona.id}}">Editar</a></td>
+                <td><a href="eliminar_persona/{{persona.id}}">Eliminar</a></td>
+            </tr>
+        {% endfor %}
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+09:38:21 AM: INFO [Conexion.py]: 23 <connection object at 0x000001474E532CE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:38:21 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001474E6834C0; closed: 0>
+09:39:54 AM: INFO [Conexion.py]: 23 <connection object at 0x000002951A222DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:39:54 AM: INFO [Conexion.py]: 36 <cursor object at 0x000002951AA59540; closed: 0>
+09:40:46 AM: INFO [Conexion.py]: 23 <connection object at 0x000001B66AB12DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:46 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001B66B0B9540; closed: 0>
+09:40:56 AM: INFO [Conexion.py]: 23 <connection object at 0x00000230C8752DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:40:56 AM: INFO [Conexion.py]: 36 <cursor object at 0x00000230C8D29540; closed: 0>
+09:41:57 AM: INFO [Conexion.py]: 23 <connection object at 0x000001F6ABB12DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:41:57 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001F6AC0D5540; closed: 0>
+09:43:45 AM: INFO [Conexion.py]: 23 <connection object at 0x000001D8F60C2DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:43:45 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001D8F6689540; closed: 0>
+09:44:40 AM: INFO [Conexion.py]: 23 <connection object at 0x000001C48CEC2DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:44:40 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001C48D659540; closed: 0>
+09:44:55 AM: INFO [Conexion.py]: 23 <connection object at 0x000001A805552DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:44:55 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001A805B29540; closed: 0>
+09:45:24 AM: INFO [Conexion.py]: 23 <connection object at 0x0000026230922DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:45:24 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000026230EF9540; closed: 0>
+09:45:42 AM: INFO [Conexion.py]: 23 <connection object at 0x000001A9B2622DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:45:42 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001A9B2E59540; closed: 0>
+09:46:09 AM: INFO [Conexion.py]: 23 <connection object at 0x0000016314982DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:46:09 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000016314F59540; closed: 0>
+09:46:30 AM: INFO [Conexion.py]: 23 <connection object at 0x0000027218912DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:46:30 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000027218E9D620; closed: 0>
+09:46:43 AM: INFO [Conexion.py]: 23 <connection object at 0x0000017964512DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:46:43 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000017964AAD620; closed: 0>
+09:46:51 AM: INFO [Conexion.py]: 23 <connection object at 0x0000029109712DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:46:51 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000029109CD9540; closed: 0>
+09:48:44 AM: INFO [Conexion.py]: 23 <connection object at 0x000001DE1F522DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:48:44 AM: INFO [Conexion.py]: 36 <cursor object at 0x000001DE1FAF9540; closed: 0>
+09:49:17 AM: INFO [Conexion.py]: 23 <connection object at 0x0000027003D52DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:49:17 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000027004329540; closed: 0>
+09:49:32 AM: INFO [Conexion.py]: 23 <connection object at 0x0000024534142DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:49:32 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000024534719540; closed: 0>
+09:50:28 AM: INFO [Conexion.py]: 23 <connection object at 0x0000021B77D12DF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:50:28 AM: INFO [Conexion.py]: 36 <cursor object at 0x0000021B782E9540; closed: 0>

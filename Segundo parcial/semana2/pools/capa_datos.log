@@ -1,0 +1,37 @@
+09:37:45 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:45 AM: DEBUG [Conexion.py]: 26 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000001D9CB70AAD0>
+09:37:45 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:45 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:45 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:45 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:45 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: INFO [PersonaDAO.py]: 26 1 persona fue creada None Juan Perez juanperez@gmail.com 20
+09:37:45 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:45 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:45 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:45 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:45 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x000001D9CAEC3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:57 AM: DEBUG [Conexion.py]: 26 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000028CE310AAD0>
+09:37:57 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:57 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:57 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:57 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:57 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: INFO [PersonaDAO.py]: 26 1 persona fue creada None Juan Perez juanperez@gmail.com 20
+09:37:57 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:57 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: DEBUG [CursorDelPool.py]: 10 Inicio metodo with
+09:37:57 AM: INFO [Conexion.py]: 37 Conexion obtenida: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:37:57 AM: WARNING [PersonaDAO.py]: 37 1 persona fue eliminada con id 3
+09:37:57 AM: DEBUG [CursorDelPool.py]: 16 Se ejecuta exit
+09:37:57 AM: INFO [Conexion.py]: 46 Conexion regresada: <connection object at 0x0000028CE28C3DE0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
